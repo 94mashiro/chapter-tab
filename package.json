@@ -7,9 +7,6 @@
     "@types/node": "10.12.15",
     "@types/react": "16.7.17",
     "@types/react-dom": "16.0.11",
-    "antd": "^3.11.2",
-    "dexie": "^2.0.4",
-    "epub": "^1.1.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1",
@@ -29,8 +26,5 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ],
-  "devDependencies": {
-    "@types/epub": "^0.0.5"
-  }
+  ]
 }
